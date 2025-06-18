@@ -70,6 +70,7 @@ Open in browser
 ![Register Page](https://github.com/DarsiPushkar/DarsiPushkar-ZeroCode-fe-assignment/blob/main/Screenshot%20(10).png?raw=true)
 
 💬 Chat Interface
+![Chat Interface](https://github.com/DarsiPushkar/DarsiPushkar-ZeroCode-fe-assignment/blob/main/Screenshot%20(13).png?raw=true)
 
 🧱 Architecture Diagram
 
