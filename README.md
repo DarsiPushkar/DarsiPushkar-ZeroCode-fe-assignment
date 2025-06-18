@@ -67,6 +67,7 @@ Open in browser
 ![Login page](https://github.com/DarsiPushkar/DarsiPushkar-ZeroCode-fe-assignment/blob/main/Screenshot%20(9).png?raw=true)
 
 📝 Register Page
+![Register Page](https://github.com/DarsiPushkar/DarsiPushkar-ZeroCode-fe-assignment/blob/main/Screenshot%20(10).png?raw=true)
 
 💬 Chat Interface
 
