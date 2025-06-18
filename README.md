@@ -10,7 +10,7 @@ A simple, fully responsive chatbot web application built using **React**, **Type
 🔗 [https://your-deployed-url.vercel.app](https://your-deployed-url.vercel.app)
 
 📧 **Test Credentials**  
-- Email: `push@gmail.com`  
+- Email: `pushkar@gmail.com`  
 - Password: `123456`
 
 ---
@@ -54,20 +54,17 @@ Edit
    cd zerocode-fe-assignment
 Install dependencies
 
-bash
-Copy
-Edit
+
 npm install
 Start the development server
 
-bash
-Copy
-Edit
+
 npm run dev
 Open in browser
-Visit: http://localhost:5173
+
 
 📸 Screenshots
+
 🔐 Login Page
 
 📝 Register Page
@@ -75,9 +72,7 @@ Visit: http://localhost:5173
 💬 Chat Interface
 
 🧱 Architecture Diagram
-txt
-Copy
-Edit
+
 [ React Frontend (Vite + TypeScript) ]
         |
   ┌───────────────┐
@@ -114,15 +109,9 @@ Edit
 📜 License
 This project is for educational use only. Developed as part of the ZeroCode FE Assignment.
 
-yaml
-Copy
-Edit
 
----
 
-### ✅ Final Steps
 
-- Replace the deployed URL in the "Live Demo" section.
-- Upload 3 screenshots (`login.png`, `register.png`, `chat.png`) inside a `screenshots/` folder in your repo.
 
-Let me know if you'd like help generating the screenshots or deploying to Vercel!
+
+
