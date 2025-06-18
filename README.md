@@ -29,9 +29,6 @@ src/
 ├── index.tsx # App entry point
 └── index.css # Tailwind CSS import
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -67,6 +64,7 @@ Open in browser
 📸 Screenshots
 
 🔐 Login Page
+
 
 📝 Register Page
 
