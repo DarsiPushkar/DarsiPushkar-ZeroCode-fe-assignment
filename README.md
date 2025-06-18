@@ -7,9 +7,10 @@ A simple, fully responsive chatbot web application built using **React**, **Type
 
 ## 🚀 Live Demo
 
-🔗 [https://your-deployed-url.vercel.app](https://your-deployed-url.vercel.app)
+🔗 [https://your-deployed-url.vercel.app]([https://your-deployed-url.vercel.app)](https://darsi-pushkar-zero-code-fe-assignme.vercel.app/)
 
-📧 **Test Credentials**  
+** I have used session based approach. So every laptop has it's own local storage. First time you have register definitely.
+Example:
 - Email: `pushkar@gmail.com`  
 - Password: `123456`
 
